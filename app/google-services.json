@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "576111673833",
+    "firebase_url": "https://bins-32293.firebaseio.com",
+    "project_id": "bins-32293",
+    "storage_bucket": "bins-32293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576111673833:android:0e98769fc81531f5",
+        "android_client_info": {
+          "package_name": "com.aditya.smartbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576111673833-7fml4dm7o74nikd0q9n08gfubiah4n1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMZ1p7P7ud7CNolpRZJ3cKxv4IqFJu0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
